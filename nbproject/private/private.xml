@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/utils/Const.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/dao/BookDAOImpl.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/services/UserServices.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/view/user/EditBookCaseView.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/model/Book.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/utils/mappers/BookMapper.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/utils/mappers/BookCaseMapper.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/services/CommonServices.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/dao/UtilsDAO.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/dao/ContainDAOImpl.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/services/AdminServices.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/view/user/ReadBook.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/dao/BookCaseDAOImpl.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/utils/InputData.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/services/BookCaseServices.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/utils/Validation.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/model/Contain.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/model/User.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/utils/mappers/DBMapper.java</file>
+            <file>file:/C:/Users/Administrator/Desktop/ReadingBookMS/src/model/BookCase.java</file>
+        </group>
+    </open-files>
+</project-private>
